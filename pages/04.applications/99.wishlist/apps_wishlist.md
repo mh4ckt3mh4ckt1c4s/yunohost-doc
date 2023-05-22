@@ -39,6 +39,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [Bitmessage](https://bitmessage.org/) | P2P communication protocol used to send encrypted messages | [Upstream](https://github.com/Bitmessage/PyBitmessage) |  |
 | Blynk |  | [Upstream](https://github.com/blynkkk/blynk-library) |  |
 | [Bolt](https://bolt.cm/) | Content Management Tool |  | [Package Draft](https://github.com/realitygaps/bolt_ynh) |
+| [BorgWarehouse](https://borgwarehouse.com/) | A fast and modern WebUI for a BorgBackup's central repository server. |   [Upstream](https://github.com/ravinou/borgwarehouse) | |
 | [Budibase](https://budibase.com/) | Low code platform for creating internal apps, workflows, and admin panels in minutes. | [Upstream](https://github.com/Budibase/budibase) |  |
 | [BTCPay Server](https://btcpayserver.org) | BTCPay Server is a free and open-source Bitcoin payment processor | [Upstream](https://github.com/btcpayserver/btcpayserver) |  |
 | [Cactus Comments](https://cactus.chat/) | Federated comment system, to embed into your webpages, based on the Matrix protocol. | [Upstream](https://gitlab.com/cactus-comments) | [Package Draft](https://github.com/h3ndrik/cactus-comments_ynh) |
@@ -62,7 +63,6 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [Cozy](https://cozy.io/en/) |  |  |  |
 | Croodle | Vote for a schedule / polling | [Upstream](https://github.com/jelhan/croodle) |  |
 | [Cusdis](https://cusdis.com/) | A lightweight, privacy-friendly comment system alternative to Disqus. |[Upstream](https://github.com/djyde/cusdis)|  |
-| [CyberChef](https://www.giters.com/gchq/CyberChef) - The Cyber Swiss Army Knife | a web app for encryption, encoding, compression and data analysis | [Upstream](https://github.com/gchq/CyberChef) |  |
 | [Darkwire.io](https://darkwire.io/) | End-to-end encrypted instant web chat | [Upstream](https://github.com/seripap/darkwire.io) |  |
 | [Dataverse](https://dataverse.org) | Open source research data repository software | [Upstream](https://github.com/IQSS/dataverse) |  |
 | [DavMail](http://davmail.sourceforge.net/) | Gateway from OWA and O365 to IMAP, POP, and CalDav for email and calendars | [Upstream](https://github.com/mguessan/davmail) |  |
@@ -137,8 +137,10 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [HistoPad](https://github.com/24eme/histopad) | Web application for logging pads (etherpad) and archiving them in a git repository. | [Upstream](https://github.com/24eme/histopad) |  |
 | Hometown | A Mastodon fork with local-only posting, support for more content types, and other features and tweaks. | [Upstream](https://github.com/hometown-fork/hometown) |  |
 | [htpc-manager](https://htpc.io) | Manage your HTPC from anywhere |  | [Package Draft](https://github.com/scith/htpc-manager_ynh) |
+| [Hypothes.is](https://hypothes.is) | Web Annotation server (and client) to crate and share highlights and notes | [Hypothes.is server](https://github.com/hypothesis/h) | |
 | [Icecast 2](https://www.icecast.org) |  | [Upstream](https://gitlab.xiph.org/xiph/icecast-server/) |  |
 | [ikiwiki](https://ikiwiki.info) |  |  |  |
+| [InfCloud](https://inf-it.com/open-source/clients/infcloud/) | A contacts, calendar and tasks web client for CalDAV and CardDAV | [Upstream](https://inf-it.com/open-source/download/InfCloud_0.13.1.zip) | |
 | [Inventaire](https://inventaire.io) | a libre collaborative resource mapper powered by open-knowledge, starting with books! 📚 | [Upstream](https://github.com/inventaire/inventaire) |  |
 | [InvoicePlane](https://invoiceplane.com) |  | [Upstream](https://github.com/InvoicePlane/InvoicePlane) |  |
 | [IPFS](https://ipfs.io) |  | [Upstream](https://github.com/ipfs/ipfs) | [Package Draft](https://github.com/YunoHost-Apps/ipfs_ynh) |
@@ -279,6 +281,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [shadowsocks](https://shadowsocks.org) | A SOCKS5 proxy to protect your Internet traffic |  | [Package Draft](https://github.com/YunoHost-Apps/shadowsocks_ynh) |
 | shinken | A flexible and scalable monitoring framework | [Upstream](https://github.com/naparuba/shinken) | [Package Draft](https://github.com/YunoHost-apps/shinken_ynh) |
 | sickbeard | Automatic TV show downloader |  | [Package Draft](https://github.com/YunoHost-Apps/sickbeard_ynh) |
+| Semaphore | A fediverse (Mastodon-API compatible) accessible, simple and fast web client  client |   [Upstream](https://github.com/NickColley/semaphore) | |
 | [sickrage](https://sickchill.github.io/) | Automatic TV shows downloader |  | [Package Draft](https://github.com/YunoHost-Apps/sickrage_ynh) |
 | [Signal Proxy](https://signal.org/blog/help-iran-reconnect/) | Fight censorship and bypass traffic securely to the Signal service | [Upstream](https://github.com/signalapp/Signal-TLS-Proxy) | |
 | simpad | Simple markdown editor | [Upstream](https://github.com/beli3ver/SiMPad) | [Package Draft](https://github.com/YunoHost-Apps/simpad_ynh) |
@@ -298,6 +301,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | studs | A survey tool, the ancestor of OpenSondage |  | [Package Draft](https://github.com/YunoHost-Apps/studs_ynh) |
 | subsonic | Subsonic is an open source, web-based media server |  | [Package Draft](https://github.com/drfred1981/subsonic_ynh) |
 | Subspace | A simple WireGuard VPN server GUI | [Upstream](https://github.com/subspacecloud/subspace) |  |
+| SuiteCRM | An open-source CRM | [Upstream](https://github.com/salesagility/SuiteCRM) |  |
 | Superalgos | Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. | [Upstream](https://github.com/Superalgos/Superalgos) |  | 
 | Sydent | Identity-serverfor matrix | [Upstream](https://github.com/matrix-org/sydent) |  |
 | [sympa](https://www.sympa.org/) | Mailing List manager |  | [Package Draft](https://github.com/YunoHost-Apps/sympa_ynh) |
@@ -305,6 +309,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [Tahoe-LAFS](https://tahoe-lafs.org/) | Decentralized cloud storage system | [Upstream](https://github.com/tahoe-lafs/tahoe-lafs) |  |
 | [Taiga](https://taiga.io) |  | [Upstream](https://github.com/taigaio/) |  |
 | [Tailscale](https://tailscale.com/) | [Wireguard](https://www.wireguard.com/)-based Mesh-VPN | [Upstream](https://github.com/tailscale/tailscale) |  |
+| [Takahē](https://jointakahe.org) | An efficient ActivityPub Server, for small installs with multiple domains | [Upstream](https://github.com/jointakahe/takahe) |  |
 | [Taskwarrior](https://taskwarrior.org) |  | [Upstream](https://github.com/GothenburgBitFactory/taskwarrior) |  |
 | [Technitium DNS](https://technitium.com/dns/) |  | [Upstream](https://github.com/TechnitiumSoftware/DnsServer) |  |
 | [Teddy.io](https://teedy.io/) | Document manager | [Upstream](https://github.com/sismics/docs) |  |
